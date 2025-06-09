@@ -73,6 +73,7 @@ const Navbar = () => {
       heading: "We deliver excellence...",
       subheading: "MRT is committed to transforming lives...",
     },
+    
   };
 
   const handleDropdown = (title) => {
